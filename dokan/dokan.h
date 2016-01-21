@@ -24,7 +24,7 @@ with this program. If not, see <http://www.gnu.org/licenses/>.
 #include <Windows.h>
 
 #include "fileinfo.h"
-#include "public.h"
+#include "..\sys\public.h"
 
 #define DOKAN_DRIVER_NAME L"dokan.sys"
 
